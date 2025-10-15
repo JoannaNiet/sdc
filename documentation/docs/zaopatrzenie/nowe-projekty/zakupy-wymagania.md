@@ -19,5 +19,5 @@ ale jeśłi mamy taka potrzebę możemy ja poszerzyć do dodatkowe kryteria akce
 
 ## Pobierz arkusze 
 
-* [Historyjka użytkownika](historyjka-uzytkownika.xlsx)
+* Historyjka użytkownika (historyjka-uzytkownika.xlsx)
 
