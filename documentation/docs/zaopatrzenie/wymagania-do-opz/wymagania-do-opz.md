@@ -3,8 +3,6 @@ id: wymagania-do-opz
 title: Wymagania do OPZ
 ---
 
-# Wymagania do OPZ
-
 ## Zalecenia
 Treść zalecenia
 
