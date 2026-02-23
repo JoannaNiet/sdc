@@ -14,4 +14,4 @@ wersja_robocza: true
 ---
 
 
-Opis:  
+Opis:  xxxx
