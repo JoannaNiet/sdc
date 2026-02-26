@@ -46,7 +46,7 @@ jobs:
 
       # 5️⃣ Upload artifact
       - name: Upload artefakt
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: auto-draft-result
           path: artifact/result.json
